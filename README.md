@@ -3,6 +3,7 @@ Collected information and tutorials about machine learning in scientific computi
 
 ## Overviews
 * Machine Learning and the physical sciences  https://arxiv.org/abs/1903.10563
+* Lecture Notes: Introduction to Machine Learning for the Sciences https://arxiv.org/abs/2102.04883
 
 ## Generic function approximation
 ### Gaussian Processes
